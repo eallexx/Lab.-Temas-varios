@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Diccionario y Lista/Diccionario y Lista.csproj" />
+  <Project Path="Factorial/Factorial.csproj" />
+  <Project Path="Frecuencia/Frecuencia.csproj" />
+  <Project Path="Metodos Sobrecargados/Metodos Sobrecargados.csproj" />
+</Solution>
